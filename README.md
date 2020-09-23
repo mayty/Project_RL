@@ -45,6 +45,12 @@ Project RL is going to be developed using Unity engine.
 Project RL is developed for Windows 10 and support of earlier OS versions is not guaranteed.
 ### 2.1.2. User Interfaces
 Project RL requires mouse and keyboard as input source and at least HD monitor as an output source.
+
+Main menu GUI mockup:
+![alt text](menu.png "menu")
+
+Gamepley GUI mockup:
+![alt text](gameplay.png "gameplay")
 ### 2.1.3. Communication Interfaces
 ### 2.1.4. Memory Constraints
 According to Steam survey vast majority of users have more than 8GB of RAM so target RAM usage will be under 8GB.
